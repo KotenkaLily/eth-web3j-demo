@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demo
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017/ktest
+  redis:
+    host: 127.0.0.1
+    port: 6379
+server:
+  # the app will run on this port
+  port: 33849

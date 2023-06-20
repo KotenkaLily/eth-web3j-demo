@@ -1,0 +1,10 @@
+npm install -g truffle
+#默认安装v5.0.0，当前默认支持solidity0.8.13
+
+#solidity 编写：
+https://remix.ethereum.org/
+#solidity示例
+https://solidity-by-example.org/
+
+#truffle教程：官方文档的非官方翻译版本
+https://learnblockchain.cn/docs/truffle/quickstart.html
